@@ -1,0 +1,1197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"mutationsList"
+			],
+			[
+				"mutati",
+				"mutationRecord"
+			],
+			[
+				"mu",
+				"mutationRecord"
+			],
+			[
+				"mut",
+				"mutationRecord"
+			],
+			[
+				"obse",
+				"observe"
+			],
+			[
+				"mutat",
+				"mutationRecord"
+			],
+			[
+				"ta",
+				"Tagify"
+			],
+			[
+				"tar",
+				"targetNode"
+			],
+			[
+				"ob",
+				"observer"
+			],
+			[
+				"use",
+				"userInput"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fetch",
+				"fetchUrlAsJson"
+			],
+			[
+				"set",
+				"setupCreateForms"
+			],
+			[
+				"tag",
+				"tagify_config"
+			],
+			[
+				"form",
+				"form_config"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"tagi",
+				"tagify_data"
+			],
+			[
+				"data",
+				"datalistInput"
+			],
+			[
+				"to",
+				"to_account"
+			],
+			[
+				"taf",
+				"tagify_input"
+			],
+			[
+				"creat",
+				"nav_create_transaction"
+			],
+			[
+				"setup",
+				"setupDatalistInputs"
+			],
+			[
+				"al",
+				"alertError"
+			],
+			[
+				"cl",
+				"classToAdd"
+			],
+			[
+				"clas",
+				"classToRemove"
+			],
+			[
+				"ale",
+				"alert-success"
+			],
+			[
+				"da",
+				"datalistInputs"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"val",
+				"valueMap"
+			],
+			[
+				"datal",
+				"datalistInput"
+			],
+			[
+				"user",
+				"user_datalist"
+			],
+			[
+				"dta",
+				"datalistInputs"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"opt",
+				"option_to_id_map"
+			],
+			[
+				"op",
+				"option_to_id_maps"
+			],
+			[
+				"option_",
+				"option_to_id_map"
+			],
+			[
+				"daa",
+				"datalist"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"ac",
+				"account"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"colum",
+				"columnData"
+			],
+			[
+				"cell",
+				"cellProperties"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"cou",
+				"countCols"
+			],
+			[
+				"cu",
+				"customBorder"
+			],
+			[
+				"co",
+				"countCols"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"bo",
+				"borderColor"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"head",
+				"header_row"
+			],
+			[
+				"wri",
+				"writerow"
+			],
+			[
+				"header_",
+				"header_display_names"
+			],
+			[
+				"w",
+				"writerow"
+			],
+			[
+				"csv",
+				"csv_text"
+			],
+			[
+				"res",
+				"response_json"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"aler",
+				"alertError"
+			],
+			[
+				"alert",
+				"alertSuccess"
+			],
+			[
+				"Success",
+				"Successfully"
+			],
+			[
+				"ht",
+				"htmlToElements"
+			],
+			[
+				"htm",
+				"htmlToElement"
+			],
+			[
+				"cre",
+				"create_forms"
+			],
+			[
+				"crea",
+				"create_forms"
+			],
+			[
+				"req",
+				"requestBody"
+			],
+			[
+				"getR",
+				"getRequestUrl"
+			],
+			[
+				"par",
+				"parentElement"
+			],
+			[
+				"tr",
+				"transactions"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"get",
+				"getFormData"
+			],
+			[
+				"cr",
+				"create_transaction_form"
+			],
+			[
+				"const",
+				"const"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"nav_",
+				"nav_to_div"
+			],
+			[
+				"ana",
+				"analyse"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"c",
+				"create_account_form_user_id"
+			],
+			[
+				"ap",
+				"api_root"
+			],
+			[
+				"void",
+				"void_account"
+			],
+			[
+				"transa",
+				"transaction"
+			],
+			[
+				"voi",
+				"void_account_name"
+			],
+			[
+				"vo",
+				"void_account_name"
+			],
+			[
+				"rq",
+				"request_json"
+			],
+			[
+				"fro",
+				"fromisoformat"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"from",
+				"from_account"
+			],
+			[
+				"_",
+				"_one_shot"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"real",
+				"real"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"mo",
+				"mobile_number"
+			],
+			[
+				"ass",
+				"assert_account_attributes"
+			],
+			[
+				"att",
+				"attribute_name"
+			],
+			[
+				"at",
+				"attribute_name"
+			],
+			[
+				"aa",
+				"attr_names"
+			],
+			[
+				"va",
+				"validate_id_or_throw"
+			],
+			[
+				"inse",
+				"inserted_id"
+			],
+			[
+				"ins",
+				"inserted_id"
+			],
+			[
+				"find",
+				"find_by"
+			],
+			[
+				"rea",
+				"real_types"
+			],
+			[
+				"typ",
+				"type_checks_schema"
+			],
+			[
+				"type",
+				"type_checks"
+			],
+			[
+				"is_va",
+				"is_valid_1"
+			],
+			[
+				"local",
+				"local_namespace"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"ou",
+				"output"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"start",
+				"startswith"
+			],
+			[
+				"max",
+				"max_length"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "When stuck,\n\n```\ngit reset --hard HEAD\nnpm run build\n# the above command will keep running and watching for changes to the source code\n# open sublime text and make necessary changes in the javascript\n# the dist/tagify.min.js will be rebuilt\n```\n\nSearch for the following:\ntextContent\nnodeValue\ninnerHTML\n",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix",
+				"name": "When stuck,"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"markdown g",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"yth",
+				"Set Syntax: Python"
+			],
+			[
+				"SIdeba",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"ju",
+				"CSV: Justify columns"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"jus",
+				"CSV: Justify columns"
+			],
+			[
+				"set de",
+				"CSV: Set delimiter"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"csv delim",
+				"CSV: Set delimiter"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pytr",
+				"ChannelRepositoryTools: Test Remote Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"comp",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"compre",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"javasv",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"markdown gf",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"text pastry",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"text pastry ",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reve",
+				"File: Revert"
+			],
+			[
+				"pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"uin",
+				"Permute Lines: Unique"
+			],
+			[
+				"togg",
+				"Bookmarks: Toggle"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			],
+			[
+				"rever",
+				"Permute Lines: Reverse"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/raghuram/Workspace/tagify",
+		"/home/raghuram/Workspace/tagify/dist",
+		"/home/raghuram/Workspace/tagify/src",
+		"/home/raghuram/Workspace/tagify/src/parts",
+		"/home/raghuram/Workspace/tagify/test"
+	],
+	"file_history":
+	[
+		"/home/raghuram/Workspace/tagify/src/parts/helpers.js",
+		"/home/raghuram/Workspace/tagify/test/tagify.test.js",
+		"/home/raghuram/Workspace/tagify/test/test.html",
+		"/home/raghuram/Workspace/tagify/package.json",
+		"/home/raghuram/Workspace/tagify/src/parts/events.js",
+		"/home/raghuram/Workspace/tagify/src/tagify.js",
+		"/home/raghuram/Workspace/tagify/src/parts/dropdown.js",
+		"/home/raghuram/Workspace/tagify/gulpfile.js",
+		"/home/raghuram/Workspace/tagify/src/parts/templates.js",
+		"/home/raghuram/Workspace/tagify/node_modules/chalk/templates.js",
+		"/home/raghuram/Workspace/tagify/dist/tagify.min.js",
+		"/home/raghuram/Workspace/tagify/src/tagify.scss",
+		"/home/raghuram/Workspace/tagify/node_modules/gulp-sass/README.md",
+		"/home/raghuram/Workspace/tagify/package-lock.json",
+		"/home/raghuram/Workspace/balance/static/node_modules/@yaireo/tagify/dist/tagify.min.js",
+		"/home/raghuram/Workspace/balance/static/create.js",
+		"/home/raghuram/Workspace/balance/models/transaction.py",
+		"/home/raghuram/Workspace/balance/config.py",
+		"/home/raghuram/Workspace/balance/util/encoder.py",
+		"/home/raghuram/Workspace/balance/static/config.js",
+		"/home/raghuram/Workspace/balance/static/util.js",
+		"/home/raghuram/Workspace/balance/static/view.js",
+		"/home/raghuram/Workspace/balance/api/accounts/__init__.py",
+		"/home/raghuram/Workspace/balance/t.json",
+		"/home/raghuram/Workspace/balance/models/base.py",
+		"/home/raghuram/Workspace/balance/models/mixins.py",
+		"/home/raghuram/Workspace/balance/api/users/__init__.py",
+		"/home/raghuram/Workspace/balance/util/__init__.py",
+		"/home/raghuram/Workspace/balance/transactions.json",
+		"/home/raghuram/Workspace/balance/static/package.json",
+		"/home/raghuram/Workspace/balance/templates/base.html",
+		"/home/raghuram/Workspace/balance/templates/index.html",
+		"/home/raghuram/Workspace/balance/models/account.py",
+		"/home/raghuram/Workspace/balance/models/__init__.py",
+		"/home/raghuram/Workspace/balance/api/__init__.py",
+		"/home/raghuram/Workspace/balance/static/webpack.config.js",
+		"/home/raghuram/Workspace/balance/0005-Remove-csv-output-format-from-GET-api-transactions.patch",
+		"/home/raghuram/Workspace/balance/0001-Added-a-csv-output-format-to-GET-api-transactions.patch",
+		"/home/raghuram/Workspace/balance/util/csv.py",
+		"/home/raghuram/Workspace/balance/.gitignore",
+		"/home/raghuram/Workspace/balance/static/node_modules/chevrotain/lib_esm/src/api.js",
+		"/home/raghuram/Workspace/balance/static/node_modules/chevrotain/lib/chevrotain.js",
+		"/home/raghuram/Workspace/balance/static/node_modules/webpack-cli/lib/webpack-cli.js",
+		"/home/raghuram/Workspace/balance/static/node_modules/dompurify/dist/purify.js.map",
+		"/home/raghuram/Workspace/balance/static/node_modules/dompurify/dist/purify.cjs.js",
+		"/home/raghuram/Workspace/balance/static/node_modules/util/README.md",
+		"/home/raghuram/Workspace/balance/temp2.py",
+		"/home/raghuram/Workspace/balance/temp.py",
+		"/home/raghuram/Workspace/balance/util/db.py",
+		"/home/raghuram/Workspace/balance/models/user.py",
+		"/home/raghuram/Workspace/balance/static/bundle.js",
+		"/home/raghuram/Workspace/balance/static/node_modules/handsontable/dist/handsontable.full.css",
+		"/home/raghuram/Workspace/balance/static/node_modules/core-js/modules/es.promise.js",
+		"/home/raghuram/Workspace/balance/static/b.js",
+		"/home/raghuram/Workspace/balance/static/a.js",
+		"/home/raghuram/Workspace/balance/static/static/bundle.js",
+		"/home/raghuram/Workspace/balance/static/node_modules/index.js",
+		"/home/raghuram/Workspace/balance/static/package-lock.json",
+		"/home/raghuram/Workspace/balance/package.json",
+		"/home/raghuram/Workspace/balance/requirements.txt",
+		"/home/raghuram/Workspace/balance/api/transactions/__init__.py",
+		"/home/raghuram/Workspace/balance/run.py",
+		"/home/raghuram/.bashrc",
+		"/home/raghuram/Workspace/bin/haiku",
+		"/home/raghuram/Workspace/Postman-linux-x64-7.34.0/Postman_in_Gnome_Launcher",
+		"/home/raghuram/bashrc",
+		"/home/raghuram/Documents/TNEB.torrent",
+		"/home/raghuram/Workspace/balance/static/form_click_handler.js",
+		"/home/raghuram/Workspace/balance/templates/util.js",
+		"/home/raghuram/Workspace/balance/api/templates/foobar.html",
+		"/home/raghuram/Workspace/balance/templates/foobar.html",
+		"/home/raghuram/.local/share/applications/postman.desktop",
+		"/home/raghuram/Workspace/balance/venv/lib/python3.8/site-packages/pyparsing.py",
+		"/home/raghuram/Workspace/balance/commands_notes_codesnippets.md",
+		"/home/raghuram/Workspace/testspace2/main.py",
+		"/home/raghuram/Documents/splitwise_category_subcategories.txt",
+		"/home/raghuram/Workspace/balance/venv/lib/python3.8/site-packages/jinja2/nodes.py",
+		"/home/raghuram/Downloads/1.xml",
+		"/home/raghuram/Downloads/Untitled Diagram.svg",
+		"/home/raghuram/Downloads/Untitled Diagram.drawio",
+		"/etc/hosts",
+		"/etc/host",
+		"/home/raghuram/Workspace/balance/tests/test_account.py",
+		"/home/raghuram/Workspace/balance/tests/__init__.py",
+		"/home/raghuram/Workspace/balance/tests/test_inc.py",
+		"/home/raghuram/Workspace/balance/tests/test_sqr.py",
+		"/home/raghuram/Workspace/balance/tests/test_class.py",
+		"/home/raghuram/Workspace/balance/Misc Notes and Commands",
+		"/home/raghuram/Workspace/balance/balance/urls.py",
+		"/home/raghuram/Workspace/balance/balance/settings.py",
+		"/home/raghuram/Workspace/balance/balance/views.py",
+		"/home/raghuram/Workspace/balance/balance/models.py",
+		"/home/raghuram/Workspace/balance/balance/migrations/0003_auto_20201118_0959.py",
+		"/home/raghuram/Workspace/balance/balance/migrations/0002_auto_20201116_1827.py",
+		"/home/raghuram/Workspace/balance/balance/migrations/0001_initial.py",
+		"/home/raghuram/Workspace/balance/balance/admin.py",
+		"/home/raghuram/Downloads/jains-pebble-brook_2020-11-16_export.csv",
+		"/media/raghuram/HDD/ARCH_LINUX_HOME/Pass/A",
+		"/media/raghuram/HDD/ARCH_LINUX_HOME/Documents/How to handle Git Apocalypse",
+		"/media/raghuram/HDD/ARCH_LINUX_HOME/Documents/ARI-SE",
+		"/home/raghuram/Documents/swiggy_script.py",
+		"/home/raghuram/Documents/Bills/Swiggy/Readme.md",
+		"/home/raghuram/Documents/Bills/Swiggy/Order food online from India's best food delivery service. Order from restaurants near you (3).html",
+		"/home/raghuram/Documents/Bills/Swiggy/Order food online from India's best food delivery service. Order from restaurants near you (2).html",
+		"/home/raghuram/Documents/Bills/Swiggy/swiggy_orders_text_till_20201115.txt",
+		"/home/raghuram/Documents/Bills/Swiggy/swiggy.html",
+		"/home/raghuram/Workspace/balance/polls/admin.py",
+		"/home/raghuram/Workspace/balance/balance/wsgi.py",
+		"/home/raghuram/Workspace/balance/balance/asgi.py",
+		"/home/raghuram/Workspace/balance/balance/apps.py",
+		"/home/raghuram/Workspace/balance/balance/__init__.py",
+		"/home/raghuram/Workspace/balance/balance/migrations/__init__.py",
+		"/home/raghuram/Workspace/balance/polls/models.py",
+		"/home/raghuram/Workspace/balance/polls/apps.py",
+		"/home/raghuram/Workspace/balance/polls/tests.py",
+		"/home/raghuram/Workspace/balance/polls/views.py",
+		"/home/raghuram/Workspace/balance/polls/__init__.py",
+		"/home/raghuram/Workspace/balance/polls/migrations/__init__.py",
+		"/media/raghuram/HDD/ARCH_LINUX_HOME/.bashrc",
+		"/media/raghuram/HDD/ARCH_LINUX_HOME/.bash_profile",
+		"/home/raghuram/Workspace/balance/templates/signup.html",
+		"/home/raghuram/Workspace/balance/templates/_formhelpers.html",
+		"/home/raghuram/Workspace/balance/notes.txt",
+		"/home/raghuram/Documents/clear_terminal_shortcuts_osx_linux",
+		"/home/raghuram/Documents/mouse_button_events",
+		"/home/raghuram/Games/desmume_instructions.md",
+		"/home/raghuram/Documents/bkp_command_execution_log",
+		"/home/raghuram/Documents/bkp_commands"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 613.0,
+		"where_history":
+		[
+			"-node_modules/**",
+			"-node_modules",
+			"/home/raghuram/Workspace/tagify/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nodeValue",
+			"textContent",
+			"tab",
+			"postUpdate",
+			"textContent",
+			"onInputIE",
+			"target.textContent",
+			"Tab",
+			"onKeyDown",
+			"_CB",
+			"_CBD",
+			"onKeyDown",
+			"callbacks",
+			"onKeydown",
+			"onkeyDown",
+			"filterListItems",
+			"state.inputText",
+			"show(",
+			"show",
+			"show(",
+			"show",
+			"_dropdown",
+			"initDropdown",
+			"dropdown",
+			"autocomplete",
+			"dropdown",
+			"DOM.input",
+			"inner",
+			"onKeyDOwn",
+			"onClick",
+			".value",
+			"CLONE",
+			"select",
+			"rollup",
+			"mi",
+			"mini",
+			"tagTextProp",
+			"normalizeTags",
+			"addTags",
+			"onFocusBlur",
+			"add",
+			"onFocusBlur",
+			"addTags",
+			"selectTag",
+			"call(",
+			"removeTags",
+			"set.call(",
+			"set(",
+			"onFocusBlur",
+			"console.log(",
+			"normalize",
+			"normalize(",
+			"console.log",
+			"js",
+			"sass",
+			"require('",
+			"require('gulp-sass')",
+			"req",
+			"require('gulp-sass')",
+			"\"sass\"",
+			"sass",
+			"math",
+			"sass",
+			"math",
+			"@use",
+			"dependen",
+			"normalize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"auto_name": "When stuck,",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 219.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tagify.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"even",
+				"src/parts/events.js"
+			],
+			[
+				"templa",
+				"node_modules/chalk/templates.js"
+			],
+			[
+				"dropd",
+				"src/parts/dropdown.js"
+			],
+			[
+				"dist/tagify.min.js",
+				"dist/tagify.min.js"
+			],
+			[
+				"src/tagify.scss",
+				"src/tagify.scss"
+			],
+			[
+				"comm",
+				"commands_notes_codesnippets.md"
+			],
+			[
+				"comman",
+				"commands_notes_codesnippets.md"
+			],
+			[
+				"confi",
+				"static/config.js"
+			],
+			[
+				"conf",
+				"config.py"
+			],
+			[
+				"chevrotain/lib_esm/src",
+				"static/node_modules/chevrotain/lib_esm/src/api.js"
+			],
+			[
+				"webpack-cli",
+				"static/node_modules/webpack-cli/lib/webpack-cli.js"
+			],
+			[
+				"dompurify/dist/purify.js.map",
+				"static/node_modules/dompurify/dist/purify.js.map"
+			],
+			[
+				"chev",
+				"static/node_modules/chevrotain/lib/chevrotain.js"
+			],
+			[
+				"view",
+				"static/view.js"
+			],
+			[
+				"handsontable.full.css",
+				"static/node_modules/handsontable/dist/handsontable.full.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/enxpd/enxpd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1232.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
