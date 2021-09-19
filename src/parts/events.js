@@ -109,7 +109,7 @@ export default {
      */
     callbacks : {
         onFocusBlur(e){
-            var text = e.target ? this.trim(e.target.textContent) : '', // a string
+            var text = e.target ? this.trim(e.target.value) : '', // a string
                 _s = this.settings,
                 type = e.type,
                 ddEnabled = _s.dropdown.enabled >= 0,
@@ -217,7 +217,7 @@ export default {
                 e.preventDefault()
             }
 
-            var s = this.trim(e.target.textContent);
+            var s = this.trim(e.target.value);
 
             this.trigger("keydown", {originalEvent:this.cloneEvent(e)})
 

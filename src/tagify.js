@@ -621,7 +621,7 @@ Tagify.prototype = {
             this.state.inputText = s
 
             if( updateDOM )
-                this.DOM.input.innerHTML = escapeHTML(""+s);
+                this.DOM.input.value = escapeHTML(""+s);
 
             if( !s && hideDropdown )
                 this.dropdown.hide.bind(this)
@@ -643,13 +643,8 @@ Tagify.prototype = {
 
         // remove any child DOM elements that aren't of type TEXT (like <br>)
         normalize( node ){
-            var clone = node || this.DOM.input, //.cloneNode(true),
-                v = [];
-
-            // when a text was pasted in FF, the "this.DOM.input" element will have <br> but no newline symbols (\n), and this will
-            // result in tags not being properly created if one wishes to create a separate tag per newline.
-            clone.childNodes.forEach(n => n.nodeType==3 && v.push(n.nodeValue))
-            v = v.join("\n")
+            var clone = node || this.DOM.input; //.cloneNode(true),
+            var v = clone.value;
 
             try{
                 // "delimiters" might be of a non-regex value, where this will fail ("Tags With Properties" example in demo page):

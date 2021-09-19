@@ -5,16 +5,23 @@ export default {
      * @param {Object}     settings  Tagify instance settings Object
      */
     wrapper(input, _s){
-        return `<tags class="${_s.classNames.namespace} ${_s.mode ? `${_s.classNames[_s.mode + "Mode"]}` : ""} ${input.className}"
-                    ${_s.readonly ? 'readonly' : ''}
-                    ${_s.disabled ? 'disabled' : ''}
-                    ${_s.required ? 'required' : ''}
-                    tabIndex="-1">
-            <span ${!_s.readonly && _s.userInput ? 'contenteditable' : ''} tabIndex="0" data-placeholder="${_s.placeholder || '&#8203;'}" aria-placeholder="${_s.placeholder || ''}"
-                class="${_s.classNames.input}"
-                role="textbox"
-                aria-autocomplete="both"
-                aria-multiline="${_s.mode=='mix'?true:false}"></span>
+        return `<tags
+            class="${_s.classNames.namespace} ${_s.mode ? `${_s.classNames[_s.mode + "Mode"]}` : ""} ${input.className}"
+            ${_s.readonly ? 'readonly' : ''}
+            ${_s.disabled ? 'disabled' : ''}
+            ${_s.required ? 'required' : ''}
+            tabIndex="-1">
+          <input
+              ${_s.required ? 'required' : ''}
+              ${_s.readonly || !_s.userInput ? 'readonly' : ''}
+              tabIndex="0"
+              placeholder="${_s.placeholder || '&#8203;'}"
+              data-placeholder="${_s.placeholder || '&#8203;'}"
+              aria-placeholder="${_s.placeholder || ''}"
+              class="${_s.classNames.input} border-0"
+              role="textbox"
+              aria-autocomplete="both"
+              aria-multiline="${_s.mode=='mix'?true:false}">
         </tags>`
     },
 
