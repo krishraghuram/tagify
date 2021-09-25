@@ -508,10 +508,10 @@
 	"buffers":
 	[
 		{
-			"contents": "When stuck,\n\n```\ngit reset --hard HEAD\nnpm run build\n# the above command will keep running and watching for changes to the source code\n# open sublime text and make necessary changes in the javascript\n# the dist/tagify.min.js will be rebuilt\n```\n\nSearch for the following:\ntextContent\nnodeValue\ninnerHTML\n",
+			"contents": "When stuck,\n\n```\ngit reset --hard HEAD\nnpm run build\n# the above command will keep running and watching for changes to the source code\n# open sublime text and make necessary changes in the javascript\n# the dist/tagify.min.js will be rebuilt\n```\n\nSearch for the following:\ntextContent\nnodeValue\ninnerHTML\n\nTodo:\ntagify.test.js\ntest.html\nindex.html\n\nWhat is `mixMode.integrated` here - https://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/tagify.js#L288\nOnly references I can find about it are,\nhttps://github.com/yairEO/tagify/issues/807\nhttps://github.com/yairEO/tagify/commit/f694de63130e40abf53ee393d7763ba306549c2c\nIs it an old feature that was removed, or is it something under development?\n\nMix Tags will not work with input, and will only work with span, because input element cannot have child elements.\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/tagify.js#L1063\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/tagify.js#L1552\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/tagify.js#L1628\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/parts/events.js#L607\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/tagify.js#L1094\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/parts/events.js#L314\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/tagify.js#L1534\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/parts/events.js#L262\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/parts/events.js#L356\nhttps://github.com/yairEO/tagify/blob/23c7e3caf1efb791775e9b073adebc79b1f4f2ab/src/parts/events.js#L367\n\n",
 			"settings":
 			{
-				"buffer_size": 304,
+				"buffer_size": 1857,
 				"line_ending": "Unix",
 				"name": "When stuck,"
 			}
@@ -774,25 +774,26 @@
 	"expanded_folders":
 	[
 		"/home/raghuram/Workspace/tagify",
-		"/home/raghuram/Workspace/tagify/dist",
 		"/home/raghuram/Workspace/tagify/src",
 		"/home/raghuram/Workspace/tagify/src/parts",
 		"/home/raghuram/Workspace/tagify/test"
 	],
 	"file_history":
 	[
-		"/home/raghuram/Workspace/tagify/src/parts/helpers.js",
-		"/home/raghuram/Workspace/tagify/test/tagify.test.js",
+		"/home/raghuram/Workspace/tagify/src/parts/defaults.js",
 		"/home/raghuram/Workspace/tagify/test/test.html",
 		"/home/raghuram/Workspace/tagify/package.json",
-		"/home/raghuram/Workspace/tagify/src/parts/events.js",
 		"/home/raghuram/Workspace/tagify/src/tagify.js",
 		"/home/raghuram/Workspace/tagify/src/parts/dropdown.js",
+		"/home/raghuram/Workspace/tagify/src/parts/helpers.js",
+		"/home/raghuram/Workspace/tagify/src/parts/events.js",
+		"/home/raghuram/Workspace/tagify/test/tagify.test.js",
+		"/home/raghuram/Workspace/tagify/src/tagify.scss",
 		"/home/raghuram/Workspace/tagify/gulpfile.js",
+		"/home/raghuram/Workspace/tagify/src/react.tagify.js",
 		"/home/raghuram/Workspace/tagify/src/parts/templates.js",
 		"/home/raghuram/Workspace/tagify/node_modules/chalk/templates.js",
 		"/home/raghuram/Workspace/tagify/dist/tagify.min.js",
-		"/home/raghuram/Workspace/tagify/src/tagify.scss",
 		"/home/raghuram/Workspace/tagify/node_modules/gulp-sass/README.md",
 		"/home/raghuram/Workspace/tagify/package-lock.json",
 		"/home/raghuram/Workspace/balance/static/node_modules/@yaireo/tagify/dist/tagify.min.js",
@@ -906,19 +907,18 @@
 		"/home/raghuram/Workspace/balance/notes.txt",
 		"/home/raghuram/Documents/clear_terminal_shortcuts_osx_linux",
 		"/home/raghuram/Documents/mouse_button_events",
-		"/home/raghuram/Games/desmume_instructions.md",
-		"/home/raghuram/Documents/bkp_command_execution_log",
-		"/home/raghuram/Documents/bkp_commands"
+		"/home/raghuram/Games/desmume_instructions.md"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
 		"height": 613.0,
 		"where_history":
 		[
+			"-node_modules/**, -dist/**",
 			"-node_modules/**",
 			"-node_modules",
 			"/home/raghuram/Workspace/tagify/src",
@@ -930,6 +930,65 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"decode",
+			"import.*decode",
+			"decode",
+			"innerHTML",
+			"lastInputValue = decode(this.DOM.input.innerHTML)",
+			"innerHTML",
+			"fill",
+			"this.DOM.input.innerHTML = s",
+			"innerHTML",
+			"prefixedTextToTag",
+			"replaceTextWithNode",
+			"nodeValue",
+			"removeTextChildNodes",
+			"createTagElem",
+			"addTags",
+			"createTagElem",
+			"removeTextChildNodes",
+			"e",
+			"e.",
+			"onInput",
+			"getMixedTagsAsString",
+			"iterateChildren",
+			"addTa",
+			"parseMixTags",
+			"loadOriginalVal",
+			"origin",
+			"postUpdate",
+			"textContent",
+			"getTagElmByValue",
+			"getTagIndexByValue",
+			"textContent",
+			"integrated",
+			"mixMode",
+			"state",
+			"mixMode",
+			"loadOriginalValues",
+			"textContent",
+			"section-textarea",
+			"mix",
+			"tagify.test.js",
+			"test.js",
+			"tagify.test",
+			"textContent",
+			"settings",
+			"mixMode",
+			"integrated",
+			"textContent",
+			"sass",
+			"import",
+			"gulp",
+			"import.*sass",
+			"tagMargin",
+			"placeholder-width",
+			"input",
+			"ent: '' !important;",
+			"input",
+			"tagify__input",
+			"loadOriginalValues",
+			"textContent",
 			"nodeValue",
 			"textContent",
 			"tab",
@@ -1001,9 +1060,10 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"Searching"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1022,15 +1082,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 304,
+						"buffer_size": 1857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								271,
-								271
+								1770,
+								1770
 							]
 						],
 						"settings":
@@ -1039,7 +1099,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 48.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1050,7 +1110,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -1087,7 +1147,7 @@
 	"project": "tagify.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
