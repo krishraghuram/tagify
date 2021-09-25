@@ -589,7 +589,7 @@ export default {
 
         onInputIE(e){
             var _this = this;
-            // for the "e.target.textContent" to be changed, the browser requires a small delay
+            // for the "e.target.value" to be changed, the browser requires a small delay
             setTimeout(function(){
                 _this.events.callbacks.onInput.call(_this, e)
             })
